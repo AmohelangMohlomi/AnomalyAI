@@ -9,7 +9,7 @@ Phase 1: Project Setup & Research (Week 1)
 
     Set Up Development Environment:
 
-        Set up version control (GitHub) and local environment (virtualenv for Python).
+        Set up version control (GitHub) and IDE(VsCode).
 
         Install necessary libraries and frameworks (Flask, scikit-learn, etc.).
 
